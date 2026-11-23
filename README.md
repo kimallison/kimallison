@@ -12,7 +12,3 @@ I build the systems that let a small team run like a bigger one. Most of what I 
 ## Where I've come from
 
 I built and ran LoopPlatform.io, a website-building platform for coaches and course creators, with a team of four. Before that I founded Graze Expectations, a grazing tables business in Canberra, and led a team of 30 consultants at Thermomix in Australia, running up to ten events a month.
-
-## Want to talk
-
-If you run a small business and your AI tools keep tripping over each other, the Agent Board is the place to start.
