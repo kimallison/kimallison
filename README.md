@@ -1,6 +1,6 @@
 # Kim Allison
 
-Co-Founder of Global Playground, a curated membership community for founders and entrepreneurs.
+Founder of Global Playground, a curated membership community for founders and entrepreneurs.
 
 I build the systems that let a small team run like a bigger one. Most of what I make starts as a problem in my own business, and I share it when it works.
 
