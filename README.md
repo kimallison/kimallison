@@ -9,6 +9,8 @@ I build the systems that let a small team run like a bigger one. Most of what I 
 - **[Agent Board template](https://github.com/kimallison/agent-board-template)**: the plain-file task board I use to run AI agents alongside me. One shared task list, one page where I answer questions and sign off finished work, and a locking script so the agents never overwrite each other. Free to copy and adapt.
 - **Global Playground**: a gathering of founders who share what is working. Four pillars shape it: Gather, Spotlight, Banter and Evolve. Find out more at [globalplayground.app](https://globalplayground.app).
 
+  Featured in The Australian Business Journal's "10 Australian AI Experts Driving Innovation in 2027". [Read the feature](https://theabj.com.au/2026/11/16/ai-experts-driving-innovation-2027/)
+
 ## Where I've come from
 
 I built and ran LoopPlatform.io, a website-building platform for coaches and course creators, with a team of four. Before that I founded Graze Expectations, a grazing tables business in Canberra, and led a team of 30 consultants at Thermomix in Australia, running up to ten events a month.
