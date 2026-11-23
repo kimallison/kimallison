@@ -6,7 +6,7 @@ We build in the open where we can. The first thing to share is the Agent Board: 
 
 ## What you will find here
 
-- **Agent Board template**: a locking script, a working agreement for your agents and a sample task list. Built for founders who run lean and want their AI tools to stop tripping over each other.
+- **[Agent Board template](https://github.com/kimallison/agent-board-template)**: a locking script, a working agreement for your agents and a sample task list. Built for founders who run lean and want their AI tools to stop tripping over each other.
 - More working systems for founders, shared as they are ready.
 
 ## What Global Playground does
